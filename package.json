@@ -1,0 +1,25 @@
+{
+  "name": "track-my-employee",
+  "version": "1.0.0",
+  "description": "An application that will track employees and managers in a specific department and allow the user to update employees",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KDouts/Track-My-Employee.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KDouts/Track-My-Employee/issues"
+  },
+  "homepage": "https://github.com/KDouts/Track-My-Employee#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3"
+  }
+}
