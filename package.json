@@ -19,7 +19,11 @@
   },
   "homepage": "https://github.com/KDouts/Track-My-Employee#readme",
   "dependencies": {
+    "co": "^4.6.0",
+    "dotenv": "^16.0.0",
     "inquirer": "^8.2.0",
+    "mysql": "^2.18.1",
+    "mysql-promise": "^5.0.0",
     "mysql2": "^2.3.3"
   }
 }
